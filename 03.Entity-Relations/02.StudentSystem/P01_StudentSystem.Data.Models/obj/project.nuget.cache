@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "20F32EyRCyC1zvNB4/ncczF8B69duRGAWko7xKUEJVMwI9/W7U08VeNap/Lih7ajQJYDY+4YYwbM8yZdGXP1LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toshk\\Desktop\\Programming\\EntityFramework\\04.EntityRelations\\Student System\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toshk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\toshk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\toshk\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
