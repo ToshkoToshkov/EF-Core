@@ -1,0 +1,14 @@
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\bin\Debug\netcoreapp3.1\FastFood.Services.deps.json
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\bin\Debug\netcoreapp3.1\FastFood.Services.dll
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\obj\Debug\netcoreapp3.1\FastFood.Services.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\obj\Debug\netcoreapp3.1\FastFood.Services.AssemblyInfo.cs
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\obj\Debug\netcoreapp3.1\FastFood.Services.csprojAssemblyReference.cache
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\bin\Debug\netcoreapp3.1\FastFood.Services.pdb
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\bin\Debug\netcoreapp3.1\FastFood.Data.dll
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\bin\Debug\netcoreapp3.1\FastFood.Models.dll
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\bin\Debug\netcoreapp3.1\FastFood.Data.pdb
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\bin\Debug\netcoreapp3.1\FastFood.Models.pdb
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\obj\Debug\netcoreapp3.1\FastFood.Services.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\obj\Debug\netcoreapp3.1\FastFood.Services.csproj.CopyComplete
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\obj\Debug\netcoreapp3.1\FastFood.Services.dll
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Services\obj\Debug\netcoreapp3.1\FastFood.Services.pdb
