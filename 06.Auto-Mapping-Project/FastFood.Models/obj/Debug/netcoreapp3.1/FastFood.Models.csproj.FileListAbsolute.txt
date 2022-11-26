@@ -1,0 +1,12 @@
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp3.1\FastFood.Models.deps.json
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp3.1\FastFood.Models.runtimeconfig.json
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp3.1\FastFood.Models.runtimeconfig.dev.json
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp3.1\FastFood.Models.dll
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp3.1\FastFood.Models.pdb
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.AssemblyInfo.cs
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.dll
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.pdb
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.genruntimeconfig.cache
+C:\Users\toshk\Desktop\задачи C#\EntityFramework\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.csprojAssemblyReference.cache
